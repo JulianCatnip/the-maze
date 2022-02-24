@@ -9,7 +9,7 @@ A small maze escape game developed in Unity.
 - You can charge energy by collecting blue energy flames.
 - After getting out of the maze, escape through a portal to win the game.
 ## Game features
-- anaglyphic 3D render option in the GameController
+- Anaglyphic 3D render option in the GameController
 
 ![anaglyphic 3D render option](./readme_src/anaglyphic-option.png)
 ## Technical details
